@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Shubham Das and I'm pursuing In B.Tech CSE from BRainware UNiversity. I want to a Software Developer Engineer.
+
 
 
 - 🔭 I’m currently working on Prepbytes.
