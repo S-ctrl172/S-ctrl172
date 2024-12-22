@@ -7,7 +7,7 @@ My name is Shubham Das and I'm pursuing In M.Tech CSE from Jadavpur University. 
 
 
 
-/*- 🔭 I’m currently working on BLUE COPPER TECHNOLOGI */
+- 🔭
 - 🌱 I’m currently learning Core Java
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for a job 
