@@ -3,11 +3,11 @@
 
 ### Hi there 👋
 
-My name is Shubham Das and I'm pursuing In B.Tech CSE from Brainware University. I want to a Software Developer Engineer.
+My name is Shubham Das and I'm pursuing In M.Tech CSE from Jadavpur University. I want to make a Software Developer Engineer.
 
 
 
-- 🔭 I’m currently working on BLUE COPPER TECHNOLOGIES.
+/*- 🔭 I’m currently working on BLUE COPPER TECHNOLOGI */
 - 🌱 I’m currently learning Core Java
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for a job 
